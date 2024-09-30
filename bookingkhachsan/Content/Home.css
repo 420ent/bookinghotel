@@ -1,0 +1,166 @@
+﻿/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+/* Header styles */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo-and-help {
+    display: flex;
+    align-items: center;
+}
+
+.logo-and-help img {
+    height: 40px;
+    margin-right: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.auth {
+    display: flex;
+}
+
+    .auth .login, .auth .signup {
+        background-color: white;
+        border: 1px solid #007bff;
+        padding: 5px 15px;
+        color: #007bff;
+        cursor: pointer;
+        border-radius: 5px;
+        margin-left: 10px;
+    }
+
+.auth .signup {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Hero section */
+.hero-section {
+    background-image: url(~/Images/hero-background.png);
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: relative;
+}
+
+.hero-content {
+    text-align: center;
+}
+
+.hero-content h1 {
+    font-size: 36px;
+}
+
+.hero-content p {
+    font-size: 18px;
+}
+
+.search-box {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.search-box input, .search-box button {
+    padding: 10px;
+    margin: 0 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.search-box button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Features section */
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 20px;
+    background-color: white;
+}
+
+.feature {
+    text-align: center;
+}
+
+.feature img {
+    height: 80px;
+    margin-bottom: 15px;
+}
+
+.feature h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.feature p {
+    color: #666;
+}
+
+/* Accommodation types section */
+.accommodation {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: white;
+}
+
+.accommodation h2 {
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
+.accommodation-types {
+    display: flex;
+    justify-content: space-around;
+}
+
+.type {
+    text-align: center;
+}
+
+.type img {
+    width: 270px;
+    height: 215px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.type p {
+    font-size: 16px;
+}

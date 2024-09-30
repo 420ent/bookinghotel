@@ -1,0 +1,27 @@
+﻿.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+container body-content {
+    border: 1px solid #ccc;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}

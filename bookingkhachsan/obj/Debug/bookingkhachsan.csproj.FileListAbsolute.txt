@@ -1,0 +1,158 @@
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\bookingkhachsan.dll.config
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\bookingkhachsan.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\bookingkhachsan.pdb
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\csc.exe
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\csc.exe.config
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\csc.rsp
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\csi.exe
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\csi.exe.config
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\csi.rsp
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.AppContext.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Collections.Immutable.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Console.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Globalization.Calendars.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.IO.Compression.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.IO.FileSystem.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Net.Http.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Net.Sockets.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Reflection.Metadata.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.ValueTuple.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Xml.XPath.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\vbc.exe
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\vbc.exe.config
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\vbc.rsp
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\VBCSCompiler.exe
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\roslyn\VBCSCompiler.exe.config
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\Antlr3.Runtime.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\Microsoft.Web.Infrastructure.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\Newtonsoft.Json.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.Helpers.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.Mvc.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.Optimization.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.Razor.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.Deployment.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.Razor.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\WebGrease.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.Helpers.xml
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.Mvc.xml
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.Optimization.xml
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.Razor.xml
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.xml
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.Deployment.xml
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.Razor.xml
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\Newtonsoft.Json.xml
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\Antlr3.Runtime.pdb
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\obj\Debug\bookingkhachsan.csproj.AssemblyReference.cache
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\obj\Debug\bookingkhachsan.csproj.CoreCompileInputs.cache
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\obj\Debug\bookingk.E047066D.Up2Date
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\obj\Debug\bookingkhachsan.dll
+D:\tdmu\đồ án cơ sở ngành\ASP.NET MVC\bookingkhachsan\bookingkhachsan\obj\Debug\bookingkhachsan.pdb
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\bookingkhachsan.dll.config
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\bookingkhachsan.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\bookingkhachsan.pdb
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\csc.exe
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\csc.exe.config
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\csc.rsp
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\csi.exe
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\csi.exe.config
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\csi.rsp
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.AppContext.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Collections.Immutable.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Console.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Globalization.Calendars.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.IO.Compression.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.IO.FileSystem.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Net.Http.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Net.Sockets.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Reflection.Metadata.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.ValueTuple.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Xml.XPath.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\vbc.exe
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\vbc.exe.config
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\vbc.rsp
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\VBCSCompiler.exe
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\roslyn\VBCSCompiler.exe.config
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\Antlr3.Runtime.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\Microsoft.Web.Infrastructure.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\Newtonsoft.Json.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.Helpers.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.Mvc.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.Optimization.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.Razor.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.Deployment.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.Razor.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\WebGrease.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.Helpers.xml
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.Mvc.xml
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.Optimization.xml
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.Razor.xml
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.xml
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.Deployment.xml
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\System.Web.WebPages.Razor.xml
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\Newtonsoft.Json.xml
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\Antlr3.Runtime.pdb
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\obj\Debug\bookingkhachsan.csproj.AssemblyReference.cache
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\obj\Debug\bookingkhachsan.csproj.CoreCompileInputs.cache
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\obj\Debug\bookingk.E047066D.Up2Date
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\obj\Debug\bookingkhachsan.dll
+D:\Năm 3 Hk1 2024-2025\Đồ án cơ sở ngành\Website\bookingkhachsan\bookingkhachsan\obj\Debug\bookingkhachsan.pdb

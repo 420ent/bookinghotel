@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang chủ</title>
+    <link rel="stylesheet" href="~/Content/Home.css">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo-and-help">
+                <img src="~/Images/logo.png" alt="Logo">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#">Khách sạn</a></li>
+                    <li><a href="#">Khuyến mãi</a></li>
+                    <li><a href="#">Tin tức</a></li>
+                    <li><a href="#">FAQs</a></li>
+                    <li><a href="#">Đăng ký đối tác</a></li>
+                </ul>
+            </nav>
+            <div class="auth">
+                <a href="https://localhost:44333/Account/Login" class="login">Đăng nhập</a>
+                <a href="#" class="signup">Đăng ký</a>
+            </div>
+        </div>
+    </header>
+
+    <div class="hero-section">
+        <div class="hero-content">
+            <h1>Tìm chỗ nghỉ ở mọi nơi bạn đến tại Việt Nam.</h1>
+            <p>Với mức giá ưu đãi nhất dành cho bạn.</p>
+            <div class="search-box">
+                <input type="text" placeholder="Bạn muốn đi đâu?">
+                <input type="date" placeholder="Nhận phòng">
+                <input type="date" placeholder="Trả phòng">
+                <input type="text" placeholder="2 khách, 1 phòng">
+                <button>Tìm kiếm</button>
+            </div>
+        </div>
+    </div>
+
+    <section class="features">
+        <div class="feature">
+            <img src="~/Images/icon-booknow.jpg" alt="Book Now">
+            <h3>Đặt ngay bây giờ, thanh toán tại chỗ nghỉ.</h3>
+            <p>Miễn phí hủy cho hầu hết các phòng.</p>
+        </div>
+        <div class="feature">
+            <img src="~/Images/icon-map.jpg" alt="Vietnam">
+            <h3>Hàng ngàn chỗ nghỉ trên lãnh thổ Việt Nam.</h3>
+            <p>Khách sạn, homestay, căn hộ và nhiều loại chỗ ở khác.</p>
+        </div>
+        <div class="feature">
+            <img src="~/Images/icon-support.jpg" alt="Support">
+            <h3>Dịch vụ khách hàng đáng tin cậy, hoạt động 24/7</h3>
+            <p>Chúng tôi luôn sẵn sàng giúp đỡ bạn.</p>
+        </div>
+    </section>
+    
+    <section class="accommodation">
+        <h2>Tìm theo loại chỗ nghỉ</h2>
+        <div class="accommodation-types">
+            <div class="type">
+                <img src="~/Images/homekhachsan.jpg" alt="Khách sạn">
+                <p>Khách sạn</p>
+            </div>
+            <div class="type">
+                <img src="~/Images/homecanho.jpg" alt="Căn hộ">
+                <p>Căn hộ</p>
+            </div>
+            <div class="type">
+                <img src="~/Images/homeresort.jpg" alt="Resort">
+                <p>Các Resort</p>
+            </div>
+            <div class="type">
+                <img src="~/Images/homevilla.jpg" alt="Biệt thự">
+                <p>Các biệt thự</p>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

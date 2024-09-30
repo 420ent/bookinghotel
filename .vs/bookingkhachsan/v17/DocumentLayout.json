@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|d:\\n\u0103m 3 hk1 2024-2025\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\website\\bookingkhachsan\\bookingkhachsan\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|d:\\n\u0103m 3 hk1 2024-2025\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\website\\bookingkhachsan\\bookingkhachsan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|d:\\n\u0103m 3 hk1 2024-2025\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\website\\bookingkhachsan\\bookingkhachsan\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|d:\\n\u0103m 3 hk1 2024-2025\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\website\\bookingkhachsan\\bookingkhachsan\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|d:\\n\u0103m 3 hk1 2024-2025\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\website\\bookingkhachsan\\bookingkhachsan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|d:\\n\u0103m 3 hk1 2024-2025\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\website\\bookingkhachsan\\bookingkhachsan\\content\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\content\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|d:\\n\u0103m 3 hk1 2024-2025\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\website\\bookingkhachsan\\bookingkhachsan\\content\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\content\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|d:\\n\u0103m 3 hk1 2024-2025\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\website\\bookingkhachsan\\bookingkhachsan\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|d:\\n\u0103m 3 hk1 2024-2025\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\website\\bookingkhachsan\\bookingkhachsan\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|d:\\n\u0103m 3 hk1 2024-2025\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\website\\bookingkhachsan\\bookingkhachsan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|d:\\n\u0103m 3 hk1 2024-2025\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\website\\bookingkhachsan\\bookingkhachsan\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B333B39F-7180-488E-886F-0000F8E72781}|bookingkhachsan\\bookingkhachsan.csproj|solutionrelative:bookingkhachsan\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "bookingkhachsan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T07:51:37.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.css",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Content\\Login.css",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Content\\Login.css",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Content\\Login.css",
+              "RelativeToolTip": "bookingkhachsan\\Content\\Login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-29T07:30:40.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "bookingkhachsan\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T07:28:55.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "bookingkhachsan\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T14:14:32.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Web.config",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Web.config",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Web.config",
+              "RelativeToolTip": "bookingkhachsan\\Web.config",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-29T06:11:38.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Views\\Home\\Products.cshtml",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "bookingkhachsan\\Views\\Home\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T05:56:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "bookingkhachsan\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:35:10.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "bookingkhachsan\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T07:52:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.css",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Content\\Home.css",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Content\\Home.css",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Content\\Home.css",
+              "RelativeToolTip": "bookingkhachsan\\Content\\Home.css",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-29T05:55:44.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Web.config",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Views\\Web.config",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Web.config",
+              "RelativeToolTip": "bookingkhachsan\\Views\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-29T06:11:33.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "bookingkhachsan\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T06:00:41.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Content\\Site.css",
+              "RelativeDocumentMoniker": "bookingkhachsan\\Content\\Site.css",
+              "ToolTip": "D:\\N\u0103m 3 Hk1 2024-2025\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\Website\\bookingkhachsan\\bookingkhachsan\\Content\\Site.css",
+              "RelativeToolTip": "bookingkhachsan\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-29T03:33:33.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
